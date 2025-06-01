@@ -1,4 +1,4 @@
-![Day 5 Demo](day5.gif)
+![Day 5 Demo](day5.gif)U
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
